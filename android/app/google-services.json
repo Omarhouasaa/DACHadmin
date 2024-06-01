@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263151306374",
+    "project_id": "houassa",
+    "storage_bucket": "houassa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263151306374:android:3a69972258e46950e23307",
+        "android_client_info": {
+          "package_name": "com.example.flutter_adminpanel_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSf9Ivxqnz7gUpTyYyal2kXRwglV_etzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
